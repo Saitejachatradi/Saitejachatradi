@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Java Full Stack Developer with **6+ years** of experience building scalable microservices and web applications — currently working at **Sanford Health** via Aitium Inc.
+Java Full Stack Developer with **6+ years** of experience building scalable microservices and web applications — currently working at Aitium Inc.
 
 - 🏥 Working on high-volume healthcare systems using Java, Spring Boot, and React
 - ⚡ Have hands-on experience with **event-driven architecture** using Apache Kafka
@@ -75,7 +75,7 @@ Java Full Stack Developer with **6+ years** of experience building scalable micr
 
 | Company | Role | Period |
 |--------|------|--------|
-| 🏥 Aitium Inc (Sanford Health) | Senior Software Engineer | Jan 2024 – Present |
+| 🏥 Aitium Inc | Senior Software Engineer | Jan 2024 – Present |
 | 🏦 Netenrich Inc | Software Engineer | Jan 2019 – Dec 2021 |
 | 💡 Winonco Pvt Ltd | Junior Java Developer | Sep 2017 – Dec 2018 |
 
