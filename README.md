@@ -4,7 +4,7 @@
 
 ### 🔧 About me
 
-- 🏥 Currently building high-volume healthcare systems at **Sanford Health** (via Aitium Inc)
+- 🏥 Currently building high-volume healthcare systems(via Aitium Inc)
 - ⚡ Specializing in **microservices**, **event-driven architecture**, and **distributed systems**
 - ☁️ Cloud-native deployments on **AWS** with Docker & Kubernetes
 - 🔍 Passionate about **latency optimization**, **scalability**, and clean API design
