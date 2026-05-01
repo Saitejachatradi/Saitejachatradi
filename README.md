@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sai Teja Chatradi 👋
 
-<!--
-**Saitejachatradi/Saitejachatradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Full Stack Developer** | 6+ years | Dallas, TX
 
-Here are some ideas to get you started:
+### 🔧 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏥 Currently building high-volume healthcare systems at **Sanford Health** (via Aitium Inc)
+- ⚡ Specializing in **microservices**, **event-driven architecture**, and **distributed systems**
+- ☁️ Cloud-native deployments on **AWS** with Docker & Kubernetes
+- 🔍 Passionate about **latency optimization**, **scalability**, and clean API design
+- 📫 Reach me: **chatradisaiteja588@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-teja-ch-/) | Open to new opportunities
+
+
+### 🛠️ Tech stack
+
+| Layer | Technologies |
+|-------|-------------|
+| **Languages** | Java 8/11/17/21, TypeScript, JavaScript, SQL |
+| **Backend** | Spring Boot, Spring MVC, Hibernate, JPA, Node.js |
+| **Frontend** | React, TypeScript, HTML5, CSS3 |
+| **Messaging** | Apache Kafka, MQ, Event-Driven Architecture |
+| **Cloud** | AWS (EC2, S3, RDS, Lambda, SQS, SNS, API Gateway) |
+| **DevOps** | Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD |
+| **Databases** | PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB, Redis |
+| **Monitoring** | Datadog, Dynatrace, AppDynamics, CloudWatch |
+
+*"Scalability isn't an afterthought — it's the foundation."*
