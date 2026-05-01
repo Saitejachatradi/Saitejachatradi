@@ -8,6 +8,7 @@
 - ⚡ Specializing in **microservices**, **event-driven architecture**, and **distributed systems**
 - ☁️ Cloud-native deployments on **AWS** with Docker & Kubernetes
 - 🔍 Passionate about **latency optimization**, **scalability**, and clean API design
+-    Consistently focusing on AI-enabled Platforms (LLM, RAG, MCP) | Java, Spring Boot, AWS
 - 📫 Reach me: **chatradisaiteja588@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/sai-teja-ch-/) | Open to new opportunities
 
